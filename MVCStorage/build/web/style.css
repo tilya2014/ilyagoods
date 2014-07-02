@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    //padding: 50px;
+    color: #555;
+}
+
+h1 {
+    background-image: url(images/storage.jpg);
+    text-align: center;
+    letter-spacing: 6px;
+    font-size: 3.2em;
+    color: #333333;
+    font-weight: bold;
+    height: 128px;
+    width: 100%;
+
+}
+
+table {
+    //padding: 10px;
+    background-color: #cccccc;
+    border-color: #333333;
+}
+
+th {
+    text-align: left;
+    border-bottom: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
+
+a:link {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: none;
+}
+
+a:link:hover {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: underline;
+}

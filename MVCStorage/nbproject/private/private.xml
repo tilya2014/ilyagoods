@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/login.jsp</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/error.jsp</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/src/java/mvcdemo/model/Item.java</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/src/java/mvcdemo/model/Category.java</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/description.jsp</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/src/java/mvcdemo/controllers/ItemController.java</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/src/java/mvcdemo/controllers/CategoryController.java</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/src/java/mvcdemo/controllers/LoginController.java</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/redirect.jsp</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/WEB-INF/web.xml</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/style.css</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/src/java/mvcdemo/model/User.java</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/src/java/mvcdemo/controllers/Servlet.java</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/items.jsp</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/categories.jsp</file>
+            <file>file:/I:/Projects/Java/NetBeans/MVCStorage/web/success.jsp</file>
+        </group>
+    </open-files>
+</project-private>
